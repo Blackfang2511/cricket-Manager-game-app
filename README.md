@@ -276,4 +276,4 @@ For issues or questions, please open a GitHub issue or contact the development t
 ## Related Projects
 
 - Original React/Firebase version: [cricket-dynasty-manager](https://github.com/user/cricket-dynasty-manager)
-- AI Playground: https://ai.studio/apps/47ae0e92-7133-41bf-94a2-8821e3d71b69
+
